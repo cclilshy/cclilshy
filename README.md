@@ -1,16 +1,18 @@
-## Hi there 👋
+# cc
 
-<!--
-**cclilshy/cclilshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer from the smallest county in the southernmost part of China
 
-Here are some ideas to get you started:
+Specializing in network communication, high-frequency clearing and automated systems. Currently engaged in work in these related fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The future goal is to closely follow the progress of AI Agents and maintain vitality. 
+
+## Projects
+
+[ripple](https://github.com/cloudtay/ripple)
+> Coroutine runtime and asynchronous architecture experiments.
+
+[agent-context-map](https://github.com/cclilshy/agent-context-map)
+> Record the index rules for the agent's responses to instructions.
+
+loc-relay
+> Lightweight local service relay and tunnel system.
